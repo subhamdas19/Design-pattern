@@ -4,7 +4,9 @@ https://howtodoinjava.com/design-patterns/structural/facade-design-pattern/(theo
 https://howtodoinjava.com/design-patterns/behavioral/template-method-pattern/(template)
 https://www.geeksforgeeks.org/adapter-pattern/(Adapter)
 https://howtodoinjava.com/design-patterns/behavioral/observer-design-pattern/(observer)
-https://www.javatpoint.com/strategy-pattern(strategy)
+https://howtodoinjava.com/design-patterns/behavioral/strategy-design-pattern/
+
+Strategy pattern enables a client code to choose from a family of related but different algorithms and gives it a simple way to choose any of the algorithm in runtime depending on the client context.
 
 singleton(javatpoint),synchronization(later),factory(javatpoint) and abstract factory (https://www.geeksforgeeks.org/abstract-factory-pattern/)
 diffrence between abstract factory and factory pattern

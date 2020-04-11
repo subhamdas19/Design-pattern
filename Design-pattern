@@ -3,6 +3,7 @@ https://www.geeksforgeeks.org/facade-design-pattern-introduction/(facade) code
 https://howtodoinjava.com/design-patterns/structural/facade-design-pattern/(theory)
 https://howtodoinjava.com/design-patterns/behavioral/template-method-pattern/(template)
 https://www.geeksforgeeks.org/adapter-pattern/(Adapter)
+Adapter design pattern is one of the structural design pattern and its used so that two unrelated interfaces can work together. The object, that joins these unrelated interfaces, is called an Adapter.
 https://howtodoinjava.com/design-patterns/behavioral/observer-design-pattern/(observer)
 https://howtodoinjava.com/design-patterns/behavioral/strategy-design-pattern/
 

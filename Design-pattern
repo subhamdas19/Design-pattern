@@ -8,7 +8,7 @@ https://howtodoinjava.com/design-patterns/behavioral/observer-design-pattern/(ob
 https://howtodoinjava.com/design-patterns/behavioral/strategy-design-pattern/
 
 Strategy pattern enables a client code to choose from a family of related but different algorithms and gives it a simple way to choose any of the algorithm in runtime depending on the client context.
-
+Abstract Factory provides interfaces for creating families of related or dependent objects without specifying their concrete classes.
 singleton(javatpoint),synchronization(later),factory(javatpoint) and abstract factory (https://www.geeksforgeeks.org/abstract-factory-pattern/)
 diffrence between abstract factory and factory pattern
 1.abstract factory has one more level of abstraction on top of it.Factory method uses inheritance and subclasses decide which class to instantiate
